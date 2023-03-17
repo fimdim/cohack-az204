@@ -40,7 +40,7 @@ This hack will help you learn:
 
 ### [Optional] Challenge 2
 
-- Import and publish the [Demo Conference API](https://conferenceapi.azurewebsites.net/?format=json) using Azure API Mnaagment
+- Import and publish the [Demo Conference API](https://conferenceapi.azurewebsites.net/?format=json) using Azure API Managment
 - Have a HTTP repsonse that contains only the Gateway URLs
 - Show the API URL in [CoHack App home page](/src/Pages/Index.cshtml) without updating the code
 
