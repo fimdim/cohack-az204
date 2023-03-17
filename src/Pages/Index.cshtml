@@ -1,0 +1,11 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">@Model.Settings.WelcomeMessage</h1>
+    <p><b>API URI:</b> <a href="@Model.Settings.ApiUrl">@Model.Settings.ApiUrl</a></p>
+    <p><b>API Key:</b> @Model.Settings.ApiKey</p>
+</div>
