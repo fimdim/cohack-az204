@@ -28,6 +28,7 @@ This hack will help you learn:
 - Deply the [CoHack App](/src) to an Azure App Service
 - Manage the [CoHack App settings](/src/appsettings.json) using Azure App Configuration
 - Manage the [CoHack App secrets](/src/appsettings.json) using Azure Key Vault
+- Show the [Details Page](/src/Pages/Details.cshtml) using Feature Flags
 
 #### Resources
 
@@ -36,7 +37,6 @@ This hack will help you learn:
 - [Use dynamic configuration in an ASP.NET Core app](https://learn.microsoft.com/azure/azure-app-configuration/enable-dynamic-configuration-aspnet-core?tabs=core6x)
 - [Add feature flags to an ASP.NET Core app](https://learn.microsoft.com/azure/azure-app-configuration/quickstart-feature-flag-aspnet-core?tabs=core6x)
 - [Use Key Vault references in an ASP.NET Core app](https://learn.microsoft.com/azure/azure-app-configuration/use-key-vault-references-dotnet-core?tabs=core5x)
-- Show the [Details Page](/src/Pages/Details.cshtml) using Feature Flags
 
 ### [Optional] Challenge 2
 
